@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: 10.67.242.245:5000/jstrachan/nodey55
-  tag: 1.0.2
+  tag: 1.0.3
   pullPolicy: IfNotPresent
 service:
   name: nodey55
